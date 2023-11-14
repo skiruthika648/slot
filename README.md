@@ -153,7 +153,8 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-![ex3](https://github.com/skiruthika648/slot/assets/128348968/7b0ae910-8588-4361-894a-e2a657885734)
+![exp3](https://github.com/skiruthika648/slot/assets/128348968/c31f4d6a-d619-4b98-9029-f7d52f7b8d3d)
+
 
 
 
